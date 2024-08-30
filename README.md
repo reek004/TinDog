@@ -19,7 +19,7 @@ Tindog is a fun project inspired by Tinder, but for dogs! It's a mockup landing 
 
 ## Demo
 
-You can view a live demo of Tindog [here](#https://reek004.github.io/TinDog/) 
+You can view a live demo of Tindog https://reek004.github.io/TinDog/ 
 ## Installation
 
 To run Tindog locally on your machine, follow these steps:

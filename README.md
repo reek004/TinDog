@@ -19,13 +19,12 @@ Tindog is a fun project inspired by Tinder, but for dogs! It's a mockup landing 
 
 ## Demo
 
-You can view a live demo of Tindog [here](#) (Add link to demo if available).
-
+You can view a live demo of Tindog [here](#https://reek004.github.io/TinDog/) 
 ## Installation
 
 To run Tindog locally on your machine, follow these steps:
 
-1. Clone this repository: git clone https://github.com/yourusername/tindog.git
+1. Clone this repository: git clone https://github.com/reek004/tindog.git
 2. Navigate to the project directory: cd tindog
 3. Open `index.html` in your web browser.
 
@@ -43,5 +42,4 @@ Contributions are welcome! If you'd like to contribute to Tindog, please follow 
 4. Push to the branch: `git push origin feature-name`.
 5. Submit a pull request.
 
-Please ensure your pull request adheres to the project's coding conventions and includes relevant documentation or tests if applicable.
 
